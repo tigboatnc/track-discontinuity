@@ -9,7 +9,7 @@ import math
 
 # BASIC SETUP 
 font = cv2.FONT_HERSHEY_SIMPLEX
-vc = cv2.VideoCapture('test_main.mp4')
+vc = cv2.VideoCapture('test.mp4')
 
 
 #DYNAMIC GRADATION
